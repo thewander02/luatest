@@ -1,0 +1,1 @@
+LuaCraft.broadcastMessage("IT WORKED")
